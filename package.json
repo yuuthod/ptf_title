@@ -1,0 +1,22 @@
+{
+  "name": "ptf_title",
+  "version": "1.0.0",
+  "description": "canvas study",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuuthod/ptf_title.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuuthod/ptf_title/issues"
+  },
+  "homepage": "https://github.com/yuuthod/ptf_title#readme",
+  "dependencies": {
+    "@babel/core": "^7.9.0"
+  }
+}
